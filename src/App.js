@@ -44,7 +44,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <GithubCorner href="https://github.com/T882200/weather_app" />
+        <GithubCorner href="https://github.com/T882200/weather_app" octoColor="#E74C3C" />
         <div className="wrapper">
           <div className="main">
             <div className="container">
